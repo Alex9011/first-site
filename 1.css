@@ -5,6 +5,9 @@
     margin: 0px;
 }
 
+.Read-more:hover, .indent-last-click-fifth:hover, .click-sixth-post:hover, .click-seventh:hover, .navbar:hover{
+    color: #686868;
+}
 /* header */
 header {
     display: flex;
